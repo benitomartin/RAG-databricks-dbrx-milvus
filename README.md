@@ -1,8 +1,6 @@
 # RAG application with Milvus, Databricks DBRX and LangChain
 
-<p align="center">
-<img width="737" alt="cover" src="https://github.com/user-attachments/assets/1478b1fe-e436-41f0-8d65-dff2c6cb84a8">
-</p>
+![image](https://github.com/user-attachments/assets/c06c4b26-2a38-47e0-8787-9228a09f4ba3)
 
 This repository contains a notebook with a RAG application with Milvus, Databricks DBRX and LangChain using a Databricks workspace.
 
