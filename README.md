@@ -4,4 +4,4 @@
 
 This repository contains a notebook with a RAG application with Milvus, Databricks DBRX and LangChain using a Databricks workspace.
 
-The notebook has been developed as part of the following Zilliz [blog](XX). 
+The notebook has been developed as part of the following Zilliz [blog](https://zilliz.com/blog/build-rag-with-milvus-and-databricks-dbrx). 
